@@ -34,4 +34,8 @@ export const store = configureStore({
   reducer: reducer,
 });
 
+<<<<<<< HEAD
 /// Branch for head
+=======
+///
+>>>>>>> a87c453 (fdsfdfd)
